@@ -1,4 +1,4 @@
-### Report Practice 5
+## Report Practice 5
 For this practice, add to the Result Section the following:
 image of the BUILD SUCCESSFUL window.
 ![Figure 1](./CapturaBuildSuccessful.PNG)
@@ -12,6 +12,6 @@ The code is in the attached files.
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
-## Conclusion
+### Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+The practice number five itself wasn't that hard, the instalation process was the hardest for me. The guide was clear, but I think it has something to do with the newer version of the MPLAB software no having the compilers directly added, I had to download on my own the compiler needed to be able to create the proyect. Another correction that i needed to do from the steps it was that the main code had a problem since the tags LED_ON and LED_OFF where later refered to as LEDS_ON and LEDS_OFF, producing a problem that made the program not buildable, not sure if this was intended in order for our better understanding of the excercise.
