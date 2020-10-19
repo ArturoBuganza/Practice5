@@ -1,7 +1,7 @@
 ### Report Practice 5
 For this practice, add to the Result Section the following:
 image of the BUILD SUCCESSFUL window.
-![Figure 1](./CapturaSuccessfulBuild.PNG)
+![Figure 1](./CapturaBuildSuccessful.PNG)
 image of each modified register for the portInit() function when you debug the code step by step. TIP: Put a breakpoint at the first line of the porInit( ) function and open the IO window (Window → Debugging → IO View). Also, modify the Conclusions Section and your names at the top of the document.
 ![Figure 2](/.CapturaIO.PNG)
 
